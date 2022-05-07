@@ -1,6 +1,7 @@
 This is a tesla-landing page
 styling the body section 1
 there are seven sections in total
+each section contaaining a section button
 adding stles to section-content
 adding styles to section-title and section sub-title
 done with entire section styling
